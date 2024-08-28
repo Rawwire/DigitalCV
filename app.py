@@ -20,9 +20,9 @@ social_media={
     "github" : "https://github.com/Rawwire"
 }
 Projects={
-    "SNAPGRADE: CGPA & GPA Calculator from Marksheet Photos":"https://github.com/Rawwire/CGPA-calculator",
-    "Amazon Price Monitoring and Review Authentication System":"https://github.com/Rawwire/Amazon-Review-System",
-    "Spam Text Classification Using Python":"https://github.com/Rawwire/Spam-text-classification",
+    "SNAPGRADE: CGPA & GPA Calculator from Marksheet Photos":"http://13.51.158.172:8501/",
+    "Amazon Price Monitoring and Review Authentication System":"https://amazonreviewsystem.streamlit.app/",
+    "Spam Text Classification Using Python":"https://rajapandispantextclassification.streamlit.app/",
     "Banking System Management using Servlets":"https://github.com/Rawwire/BankingSystem",
     "Employee Task Tracker using Servlets":"https://github.com/Rawwire/EmployeeTracker"
 }
