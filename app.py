@@ -20,7 +20,7 @@ social_media={
     "github" : "https://github.com/Rawwire"
 }
 Projects={
-    "SNAPGRADE: CGPA & GPA Calculator from Marksheet Photos":"http://13.51.158.172:8501/",
+    "SNAPGRADE: CGPA & GPA Calculator from Marksheet Photos":"https://github.com/Rawwire/CGPA-calculator",
     "Amazon Price Monitoring and Review Authentication System":"https://amazonreviewsystem.streamlit.app/",
     "Spam Text Classification Using Python":"https://rajapandispantextclassification.streamlit.app/",
     "Banking System Management using Servlets":"https://github.com/Rawwire/BankingSystem",
